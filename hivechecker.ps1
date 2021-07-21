@@ -1,5 +1,5 @@
 # HiveNightmare vulnerability checker and workaround
-# Author: paragonsec
+# Author: Quentin Rhoads-Herera (@paragonsec)
 # Info: 
 #     This script will check for dangerous ACLs in the on-disk HIVE files and fix them if you wish
 #     In addition it will check all shadow copies made in the past for the dangerous permissions and delete them if you wish
